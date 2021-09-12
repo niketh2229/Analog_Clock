@@ -15,7 +15,7 @@ body{
     margin: auto;
     height: 40vw;
     width: 40vw;
-    background: url(images\ \(1\).png) no-repeat;
+    background: url('images.png') no-repeat;
     background-size: 100%;
     top: 6.5vh;
 }
